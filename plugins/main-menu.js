@@ -10,7 +10,7 @@ const clockString = ms => {
 let img = 'https://files.catbox.moe/6dewf4.jpg'; 
 
 let menuText = `
-╭─❒ 「 sᥲsᥙkᥱ ᑲ᥆𝗍 mძ 🌀 」
+╭─❒ 「 ISAGI YOICHI ᑲ᥆𝗍 mძ 🌀 」
 │ 👤 *Nombre:* %name
 │ 🎖 *Nivel:* %level | *XP:* %exp/%max
 │ 🔓 *Límite:* %limit | *Modo:* %mode

@@ -9,7 +9,7 @@ let handler = async (m, { conn, usedPrefix, command }) => {
                  "⭐ Canal :\n" +
                  "*✰*.
 https://whatsapp.com/channel/0029VbAIBneK0IBjjFDyMn31" +
-                 "> By Gabriel";
+                 "> By Gabrie";
 
     // Asegúrate de definir 'imagen2' correctamente antes de usarlo
     let imagen2 = 'https://o.uguu.se/RDvxoqJu.jpg';

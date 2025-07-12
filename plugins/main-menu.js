@@ -7,10 +7,10 @@ const clockString = ms => {
   return [h, m, s].map(v => v.toString().padStart(2, '0')).join(':');
 };
 
-let img = 'https://files.catbox.moe/6dewf4.jpg'; 
+let img = 'https://files.catbox.moe/34d2w8.jpg'; 
 
 let menuText = `
-╭─❒ 「 ISAGI YOICHI ᑲ᥆𝗍 mძ 🌀 」
+╭─❒ 「 ISAGI YOICHI ᑲ᥆𝗍 mძ 👽 」
 │ 👤 *Nombre:* %name
 │ 🎖 *Nivel:* %level | *XP:* %exp/%max
 │ 🔓 *Límite:* %limit | *Modo:* %mode
@@ -26,7 +26,7 @@ const menuFooter = `
 ╭─❒ 「 *📌 INFO FINAL* 」
 │ ⚠️ *Usa los comandos con el prefijo correspondiente.*
 
-> Creado por Barboza-Team
+> Creado por Gabriel y Barboza-Team
 ╰❒
 `.trim();
 

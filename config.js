@@ -36,8 +36,7 @@ global.textbot = `⍴᥆ᥕᥱrᥱძ ᑲᥡ ISAGI 🌀`
 global.dev = '• ⍴᥆ᥕᥱrᥱძ ᑲᥡ ᥴ᥆mᥙᥒі𝗍ᥡ ISAGI YOICHI ᑲ᥆𝗍 mძ 🌀'
 global.listo = '*Aqui tiene ฅ^•ﻌ•^ฅ*'
 global.namechannel = 'ISAGI YOICHI ᑲ᥆𝗍 mძ 🌀'
-global.channel = '
-https://whatsapp.com/channel/0029VbAIBneK0IBjjFDyMn31'
+global.channel ='https://whatsapp.com/channel/0029Vaua0ZD3gvWjQaIpSy18'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 

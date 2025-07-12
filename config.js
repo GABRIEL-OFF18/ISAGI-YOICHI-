@@ -9,7 +9,7 @@ import axios from 'axios'
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
   global.owner = [
-  [ '172056423456949@lid', 'Barboza OFC', true ],
+  [ '51941247696', 'Gabriel OFC', true ],
   [ '50577688033', 'Goku', true ],
   [ '584146277368', 'Willzek', true ],
   [ '5212431268546', "I'm Fz ~", true ],
@@ -24,18 +24,18 @@ global.prems = []
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.packname = `[ sᥲsᥙkᥱ ᑲ᥆𝗍 🌀`
-global.author = 'sᥲsᥙkᥱ ᑲ᥆𝗍 mძ 🌀]'
-global.stickpack = '©sᥲsᥙkᥱ ᑲ᥆𝗍 mძ 🌀'
-global.stickauth = 'ᑲᥡ sᥲsᥙkᥱ ᑲ᥆𝗍'
-global.wm = 'sᥲsᥙkᥱ 🌀'
+global.packname = `[ ISAGI YOICHI 👅`
+global.author = 'ISAGI YOICHI mძ 🔥]'
+global.stickpack = '©ISAGI YOICHI mძ 🌀'
+global.stickauth = 'ᑲᥡ ISAGI BOT'
+global.wm = 'ISAGI YOICHI 🌀'
 global.dev = '© 𝖯᥆𝗐ᥱ𝗋ᥱძ ᑲᥡ 𝖲ᥙᥒ𝖿ᥣᥲ𝗋ᥱ  ☂︎  𝖳ᥱᥲ𝗆'
-global.wait = '🌪️ *Aɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ, sᴏʏ ʟᴇɴᴛ𝙾... ฅ^•ﻌ•^ฅ\n\n> sᥲsᥙkᥱ ᑲ᥆𝗍 mძ 🌀 🌪️*'
-global.botname = '[ sᥲsᥙkᥱ ᑲ᥆𝗍 mძ 🌀 ]'
-global.textbot = `⍴᥆ᥕᥱrᥱძ ᑲᥡ sᥲsᥙkᥱ 🌀`
-global.dev = '• ⍴᥆ᥕᥱrᥱძ ᑲᥡ ᥴ᥆mᥙᥒі𝗍ᥡ sᥲsᥙkᥱ ᑲ᥆𝗍 mძ 🌀'
+global.wait = '🌪️ *Aɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ, sᴏʏ ʟᴇɴᴛ𝙾... ฅ^•ﻌ•^ฅ\n\n> ISAGI ᑲ᥆𝗍 mძ 🌀 🌪️*'
+global.botname = '[ ISAGI ᑲ᥆𝗍 mძ 🌀 ]'
+global.textbot = `⍴᥆ᥕᥱrᥱძ ᑲᥡ ISAGI 🌀`
+global.dev = '• ⍴᥆ᥕᥱrᥱძ ᑲᥡ ᥴ᥆mᥙᥒі𝗍ᥡ ISAGI YOICHI ᑲ᥆𝗍 mძ 🌀'
 global.listo = '*Aqui tiene ฅ^•ﻌ•^ฅ*'
-global.namechannel = 'sᥲsᥙkᥱ ᑲ᥆𝗍 mძ 🌀'
+global.namechannel = 'ISAGI YOICHI ᑲ᥆𝗍 mძ 🌀'
 global.channel = 'https://whatsapp.com/channel/0029Vaua0ZD3gvWjQaIpSy18'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*

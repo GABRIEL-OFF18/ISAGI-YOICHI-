@@ -12,7 +12,7 @@ https://whatsapp.com/channel/0029VbAIBneK0IBjjFDyMn31" +
                  "> By Gabriel";
 
     // Asegúrate de definir 'imagen2' correctamente antes de usarlo
-    let imagen2 = 'https://h.uguu.se/iRbSvBAW.jpg';
+    let imagen2 = 'https://o.uguu.se/RDvxoqJu.jpg';
 
     // Define los emojis que quieres usar
     let emojis = '👾';

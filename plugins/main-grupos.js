@@ -1,8 +1,8 @@
 import fetch from 'node-fetch';
 
 let handler = async (m, { conn, usedPrefix, command }) => {
-    let grupos = "*Hola!, te invito a unirte a los grupos oficiales del Bot para convivir con la comunidad* ⭐\n\n" +
-                 "1-Barboza\n" +
+    let grupos = "*Hola!, te invito a unirte a los grupos oficiales  para convivir con la comunidad* ⭐\n\n" +
+                 "1-Gabriel\n" +
                  "*✰* https://chat.whatsapp.com/CBuLXuVZcg9FEfCSHiY6b0" +
                  "*─ׄ─ׄ⭒─ׄ─ׅ─ׄ⭒─ׄ─ׅ─ׄ⭒─ׄ─ׅ─ׄ⭒─ׄ─ׅ─ׄ⭒─ׄ─ׄ*\n\n" +
                  "➠ Enlace anulado? entre aquí! \n\n" +

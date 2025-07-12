@@ -287,7 +287,7 @@ let handler = async (msg, { conn, args, usedPrefix, command, isOwner }) => {
               forwardingScore: 999,
               isForwarded: true,
               forwardedNewsletterMessageInfo: {
-                newsletterJid: '120363419364337473@newsletter',
+                newsletterJid: '120363418542108786@newsletter',
                 newsletterName: 'isagi ᑲ᥆𝗍 mძ ',
                 serverMessageId: -1
               }

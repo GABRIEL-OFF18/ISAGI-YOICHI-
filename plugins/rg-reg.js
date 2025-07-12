@@ -11,7 +11,7 @@ let handler = async (m, { conn, text, usedPrefix, command}) => {
 }
 
     if (!regFormat.test(text)) {
-        return m.reply(`❌ Formato incorrecto.\nUsa: *${usedPrefix + command} Nombre.Edad.País*\nEjemplo: *${usedPrefix + command} Barboza.18.Venezuela*`);
+        return m.reply(`❌ Formato incorrecto.\nUsa: *${usedPrefix + command} Nombre.Edad.País*\nEjemplo: *${usedPrefix + command} Gabriel.18.Peru*`);
 }
 
     let [_, name, age, country] = text.match(regFormat);

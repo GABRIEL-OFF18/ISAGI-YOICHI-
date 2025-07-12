@@ -1,11 +1,11 @@
 import fetch from 'node-fetch'
 
 export async function before(m, { conn }) {
-let name = `ᥴһᥲᥒᥒᥱᥣ-sᥲsᥙkᥱ ᑲ᥆𝗍 mძ 🌀`
+let name = `ᥴһᥲᥒᥒᥱᥣ-ISAGI YOICHI ᑲ᥆𝗍 mძ 🔥`
 let imagenes = ["https://h.uguu.se/iRbSvBAW.jpg",
 "https://files.catbox.moe/34d2w8.jpg",
 "https://files.catbox.moe/jiarb6.jpg",
-"https://files.catbox.moe/6dewf4.jpg",]
+"https://files.catbox.moe/jiarb6.jpg",]
 
 let icono = imagenes[Math.floor(Math.random() * imagenes.length)]
 

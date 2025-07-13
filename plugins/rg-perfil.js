@@ -2,7 +2,7 @@ import PhoneNumber from 'awesome-phonenumber';
 import fetch from 'node-fetch';
 import fs from 'fs';
 
-const imagen1 = 'ᥴһᥲᥒᥒᥱᥣ-sᥲsᥙkᥱ ᑲ᥆𝗍 mძ 🌀';
+const imagen1 = 'ISAGI-YOICHI ᑲ᥆𝗍 mძ  🤜🏿';
 
 const loadMarriages = () => {
     if (fs.existsSync('./media/database/marry.json')) {

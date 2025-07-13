@@ -22,7 +22,7 @@ let handler = async (m, { conn, text }) => {
   }
 
   const groupId = match[1];
-  const message = "〔 *sᥲsᥙkᥱ ᑲ᥆𝗍 mძ 🌀*〕\n\n*Enlace recibido correctamente.*";
+  const message = "〔 *ISAGI YOICHI ᑲ᥆𝗍 mძ 🌀*〕\n\n*Enlace recibido correctamente.*";
 
   try {
     // Acepta la invitación al grupo

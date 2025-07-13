@@ -49,7 +49,7 @@ let handler = async (m, { conn, args, command, usedPrefix}) => {
 } catch (e) {
     console.error(e);
     return m.reply(
-      `╭─⬣「 *Barboza AI* 」⬣
+      `╭─⬣「 *Gabriel off* 」⬣
 │ ≡◦ ⚠️ *Error al procesar la solicitud.*
 │ ≡◦ Intenta nuevamente más tarde.
 ╰─⬣`

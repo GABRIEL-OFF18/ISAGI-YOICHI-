@@ -15,7 +15,7 @@ let handler = async (m, { conn }) => {
 ┣━━━🚀 *Colaboradores* ━━━┫
 ┃ • *Nombre:* JHONATANG 
 ┃   *Rol:* 𝚂𝚘𝚙𝚘𝚛𝚝𝚎
-┃   *Número:* wa.me/584123989549
+┃   *Número:* 50557333744
 ┃
 ┃
 ┃ 

@@ -4,10 +4,10 @@ let handler = async (m, { conn, args, command, usedPrefix}) => {
   const text = args.join(" ");
   if (!text) {
     return m.reply(
-      `╭─⬣「 *Barboza AI* 」⬣
+      `╭─⬣「 *Gabriel off* 」⬣
 │ ≡◦ 🎧 *Uso correcto del comando:*
 │ ≡◦ ${usedPrefix + command} shakira soltera
-╰─⬣\n> © Barboza AI`
+╰─⬣\n> © Gabriel off`
 );
 }
   await m.react('⌛');
@@ -18,7 +18,7 @@ let handler = async (m, { conn, args, command, usedPrefix}) => {
 
     if (!json.status ||!json.result?.downloadUrl) {
       return m.reply(
-        `╭─⬣「 *Barboza AI* 」⬣
+        `╭─⬣「 *Gabriel off* 」⬣
 │ ≡◦ ❌ *No se encontró resultado para:* ${text}
 ╰─⬣`
 );

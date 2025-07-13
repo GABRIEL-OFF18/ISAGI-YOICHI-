@@ -9,7 +9,7 @@ let handler = async (m, { conn, text, usedPrefix, command }) => {
 
   // Notificar al usuario que se está generando la imagen
   await conn.sendMessage(m.chat, {
-    text: `🔨 *sᥲsᥙkᥱ ᑲ᥆𝗍 mძ 🌀 está creando tu imagen... Por favor espera...*`,
+    text: `🔨 *ISAGI YOICHI ᑲ᥆𝗍 mძ 🤜🏿 está creando tu imagen... Por favor espera...*`,
   });
 
   try {

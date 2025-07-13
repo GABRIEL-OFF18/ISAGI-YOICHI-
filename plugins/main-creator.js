@@ -13,8 +13,8 @@ async function handler(m, { conn }) {
 *📞 Número:* wa.me/${numcreador}
 *📝 Descripción:* ${about}
 *🏢 Empresa:* ${empresa}
-*📧 Email:* sebastianbarbaro82@gmail.com
-*📸 Instagram:* https://www.instagram.com/sebastian_barboza13
+*📧 Email:* (texto)
+*📸 Instagram:* (texto
 `;
 
     await conn.sendMessage(m.chat, { text: caption }, { quoted: m });

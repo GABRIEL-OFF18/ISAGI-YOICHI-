@@ -45,7 +45,7 @@ let handler = async (m, { text, conn, command }) => {
     const msgInfo = `
 ╔═ೋ═══❖═══ೋ═╗
 ║  👾 ISAGI YOICHI 𝐁𝐨𝐭 👾
-║  🎶 𝐃𝐞𝐬𝐜𝐚𝐫𝐠𝐚𝐬 𝐏𝐥𝐚𝐲 🎶
+║  👽 DESCARGAS BOT 👽
 ╠═ೋ═══❖═══ೋ═╣
 ║ 🎵 Título: ${videoTitle}
 ║ ⏱️ Duración: ${duration}s

@@ -7,7 +7,7 @@ let handler = async (m, { conn, text, usedPrefix, command}) => {
     let imageUrl = 'https://n.uguu.se/rYdytJca.jpg';
 
     if (userDB?.registered) {
-        return m.reply(`✅ Ya estás registrado disfruta de este maravilloso bot.\nSi deseas eliminar tu registro, usa👾: *${usedPrefix}unreg*`);
+        return m.reply(`✅ Ya estás registrado.\nSi deseas eliminar tu registro, usa: *${usedPrefix}unreg*`);
 }
 
     if (!regFormat.test(text)) {

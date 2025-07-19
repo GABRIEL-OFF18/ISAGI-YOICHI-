@@ -8,7 +8,7 @@ let handler = async (m, { conn, args, command, usedPrefix}) => {
       `╭─⬣「 *Gabriel 🍷🗿* 」⬣
 │ ≡◦ 🎧 *Uso correcto del comando:*
 │ ≡◦ ${usedPrefix + command} shakira soltera
-╰─⬣\n> © Barboza AI`
+╰─⬣\n> © Gabriel 😺`
 );
 }
 

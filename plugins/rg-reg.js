@@ -4,7 +4,7 @@ import { createHash} from 'crypto';
 let handler = async (m, { conn, text, usedPrefix, command}) => {
     let regFormat = /^([^\s]+)\.(\d+)\.(\w+)$/i;
     let userDB = global.db.data.users[m.sender];
-    let imageUrl = 'https://d.uguu.se/UObQGohA.jpg';
+    let imageUrl = 'https://n.uguu.se/WGoqcyWo.jpg';
 
     if (userDB?.registered) {
         return m.reply(`✅ Ya estás registrado jsjs.\nSi deseas eliminar tu registro, usa: *${usedPrefix}unreg*`);
